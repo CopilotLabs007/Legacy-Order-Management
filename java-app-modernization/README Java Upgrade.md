@@ -3,9 +3,9 @@
 2. Install Java 8 / Java 11 / Java 17 and 21 versions.
 3. Set up your IDE (e.g., VS Code, IntelliJ IDEA, Eclipse)
 4. Clone the repository `git clone https://github.com/org/java-repo.git` or open existing project in your IDE
-5. Change the project directory and open **java-8-bootcamp** in your IDE
+5. Change the project directory and open **java-8-legacy-app** in your IDE
 6. Build the project using Maven or Gradle
-`cd java-8-bootcamp && mvn clean install -U`
+`cd java-8-legacy-app && mvn clean install -U`
 7. Ignore test failures
 8. Run the application
 `mvn spring-boot:run -Dmaven.test.skip=true`
