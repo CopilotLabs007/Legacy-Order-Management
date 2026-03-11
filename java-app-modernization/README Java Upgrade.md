@@ -27,3 +27,9 @@ OR Open Copilot chat in agent mode and enter your prompt like "Upgrade this Java
 
 1. Verify the pom.xml & application functionality after the upgrade.
 2. Run the application using Java 21
+
+
+OR
+
+# Modernize Java apps by using GitHub Copilot app modernization in the Copilot CLI
+https://learn.microsoft.com/en-us/azure/developer/java/migration/github-copilot-app-modernization-for-java-copilot-cli
