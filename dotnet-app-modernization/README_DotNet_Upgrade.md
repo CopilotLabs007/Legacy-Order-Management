@@ -39,10 +39,10 @@ This repository demonstrates upgrading a legacy ASP.NET MVC5 (.NET Framework 4.8
 ## Tools & References
 - Blog: GitHub Copilot Upgrade Agent announcement
   - https://devblogs.microsoft.com/dotnet/github-copilot-upgrade-dotnet/
-- VS Marketplace (extension):
-  - https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.GitHubCopilotUpgradeAgent
+- GitHub Copilot Modernization (built into Visual Studio 17.14.17+):
+  - https://learn.microsoft.com/en-us/dotnet/core/porting/github-copilot-app-modernization/install
 - Documentation & modernization guidance:
-  - https://learn.microsoft.com/en-us/dotnet/core/porting/github-copilot-app-modernization-overview
+  - https://learn.microsoft.com/en-us/dotnet/core/porting/github-copilot-app-modernization/overview
 
 
 
